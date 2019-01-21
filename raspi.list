@@ -1,0 +1,3 @@
+deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ stretch main ui
+# Uncomment line below then 'apt-get update' to enable 'apt-get source'
+#deb-src https://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ stretch main ui
